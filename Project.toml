@@ -1,0 +1,7 @@
+name = "InjectiveDicts"
+uuid = "d3c6e55f-3396-4138-8201-985e128b1cd6"
+authors = ["Sergio Sánchez Ramírez <sergio.sanchez.ramirez+git@bsc.es>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
